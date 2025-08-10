@@ -4,8 +4,9 @@
 </p>
 
 
-<p align="justify">
 
+
+<p align="justify">
 2. Con lo anterior, se podrian obtienen parametros robustos que podrian ser transferibles espaciotemporalmente. Se generaron modelos para una Region para estudiar la optimizacion multiobjetivo de parametros por proximidad.
 </p>
 
