@@ -7,7 +7,7 @@
 
 
 <p align="justify">
-2. Con lo anterior, se obtienen parametros robustos que podrian ser transferibles espaciotemporalmente. Se generaron modelos para una Region para estudiar la optimizacion multiobjetivo de parametros por proximidad.
+2. Con lo anterior, se obtienen parametros robustos que podrian ser transferibles espaciotemporalmente. Se generaron modelos para una region espacial continua para estudiar la optimizacion multiobjetivo de parametros por proximidad.
 </p>
 
 
